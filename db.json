@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "Image": "sdf",
+      "Name": "adsa",
+      "Description": "csdcsdc",
+      "Gender": "male",
+      "Category": "Trousers",
+      "Price": "300",
+      "id": 2
+    },
+    {
+      "Image": "dasfsas",
+      "Name": "cssvgvb",
+      "Description": "cscsdv",
+      "Gender": "female",
+      "Category": "Lehenga",
+      "Price": "588",
+      "id": 3
+    },
+    {
+      "Image": "cxzczczv",
+      "Name": "sdfsdfsv",
+      "Description": "cscsa",
+      "Gender": "male",
+      "Category": "Suits",
+      "Price": "477",
+      "id": 5
+    }
+  ]
+}
